@@ -7,4 +7,11 @@ export const types = {
 
   uiSetError: "[UI] Set Error",
   uiRemoveError: "[UI] Remove Error",
+
+  notesAddNew: "[Notes] New Note",
+  notesActive: "[Notes] Set Active Note",
+  notesLoad: "[Notes] Load Note",
+  notesUpdated: "[Notes] Updated Note",
+  notesFileURL: "[Notes] Updated Image URL",
+  notesLogoutCleaning: "[Notes] Logout Cleaning",
 };
