@@ -9,6 +9,7 @@ export const types = {
   uiRemoveError: "[UI] Remove Error",
 
   notesAddNew: "[Notes] New Note",
+  noteDelete: "[Notes] Delete Note",
   notesActive: "[Notes] Set Active Note",
   notesLoad: "[Notes] Load Note",
   notesUpdated: "[Notes] Updated Note",
